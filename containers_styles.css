@@ -1,0 +1,37 @@
+.container{
+    width: 100%;
+    border: 5px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.containers{ 
+    height: 200px; 
+   
+    width: 200px;
+    border: 6px solid black;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.box{
+    width:100px ;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+    
+   
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.black{
+    background-color: black;
+}
